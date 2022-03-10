@@ -55,7 +55,7 @@ ROOT_URLCONF = 'entregaproyecto.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'/Users/agustintornati/Desktop/EntregaProyecto/Index/plantillas'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
